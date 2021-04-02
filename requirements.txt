@@ -26,6 +26,7 @@ networkx==2.5
 numpy==1.20.2
 packaging==20.9
 Pillow==8.2.0
+pkg-resources==0.0.0
 prokaryote==2.4.2
 psutil==5.8.0
 pyparsing==2.4.7
